@@ -88,4 +88,4 @@ I optimize erly for performance and separation of concerns to reduce the need fo
 - Software architecture as long-term investment
 - AI/ML as a tool
 
-I approach programming with the mindset that **ther is never a slingle "correct" solution** but **only different trade-offs**. I am not afraid of doing mistakes as I consider every mistake as an opportiunity to learn and improve.
+I approach programming with the mindset that **there is never a slingle "correct" solution** but **only different trade-offs**. I am not afraid of doing mistakes as I consider every mistake as an opportiunity to learn and improve.
